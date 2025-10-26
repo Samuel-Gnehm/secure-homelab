@@ -1,0 +1,33 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.swp
+~$*
+
+# Virtual machine images / disk files
+*.vdi
+*.vmdk
+*.qcow2
+*.img
+*.iso
+
+# Archives / backups
+*.zip
+*.tar
+*.gz
+*.7z
+
+# IDE & editor files
+.vscode/
+.idea/
+*.code-workspace
+
+# Python / Node caches (if scripts are added)
+__pycache__/
+node_modules/
